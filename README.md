@@ -1,22 +1,12 @@
-# rvs19-spa-dz-02
+# rvs19-spa-dz-03
 
-![GIF iz programa](https://media.giphy.com/media/ZYPSGg11ivq0gvjMI7/giphy.gif)
+![GIF iz programa](https://media.giphy.com/media/hVOWneAKJq2UzxQvlv/giphy.gif)
 
 # UPUTE:
 
-STRELICE ili W/A/S/D - povećavajte/smanjujte površinu
+SPACEBAR za sljedeći step
 
-LIJEVI KLIK - promjeni stanje u ćeliji
+resetiranje - klik bilo gdje na ploči
 
-Q - sljedeća generacija
-
-C - obriši sve ćelije s ekrana
-
-R - nasumično postavi ćelije
-
-\+ - ubrzaj
-
-\- - uspori
-
-SPACE - zaustavi/pokreni automatsko mijenjanje generacija
+Mouse scroll wheel - mjenjanje selekcije (zid, početak, kraj)
 
