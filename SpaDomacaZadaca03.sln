@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SpaDomacaZadaca03", "SpaDomacaZadaca03\SpaDomacaZadaca03.vcxproj", "{27E5E2CC-0412-4F77-917C-6285F9D6F224}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Zadatak1", "L:\rvs19-spa-dz-03\Zadatak1\Zadatak1.vcxproj", "{50D20FB0-9AE8-40B5-9067-DBFB9D86B235}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Zadatak1", "Zadatak1\Zadatak1.vcxproj", "{50D20FB0-9AE8-40B5-9067-DBFB9D86B235}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
